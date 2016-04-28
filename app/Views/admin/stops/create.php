@@ -107,8 +107,8 @@
 											</label>
 											<div class="col-md-6 col-sm-6 col-xs-12">
 												<select id="routeID" name="routeID" class="form-control">
-													<option value="1">From Kifisia</option>
-													<option value="2">To Kifisia</option>
+<!--													<option value="1">From Kifisia</option>-->
+<!--													<option value="2">To Kifisia</option>-->
 													<option value="78">Test</option>
 												</select>
 											</div>
