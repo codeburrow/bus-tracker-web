@@ -61,8 +61,6 @@ $this->layout('layouts/master');
 								</thead>
 
 								<tbody>
-
-
 								<?php foreach ($response['routes'] as $row) { ?>
 								<tr class="pointer">
 									<td class="a-center ">
